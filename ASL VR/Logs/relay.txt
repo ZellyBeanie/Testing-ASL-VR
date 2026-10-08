@@ -70,3 +70,5 @@
 [2026-10-08T16:05:27.723Z] [WARN] connection.lost clientId=null
 [2026-10-08T16:05:27.724Z] [WARN] log Client disconnected - sessions will persist until auto-shutdown, reason: Client disconnected
 [2026-10-08T16:05:27.725Z] [INFO] log Auto-shutdown timer started due to client disconnection
+[2026-10-08T16:08:27.738Z] [INFO] log Auto-shutdown timer fired after 180s inactivity, shutting down: Dedicated client disconnected
+[2026-10-08T16:08:27.738Z] [INFO] log Shutdown: Initiating graceful shutdown: Dedicated client disconnected
